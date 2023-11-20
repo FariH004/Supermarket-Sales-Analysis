@@ -15,12 +15,13 @@ How to run the project ?:
     pip install numpy
 
     // matplotlib.pyplot
-    python -m pip install -U pip
+    
+    python -m pip install -U pip 
     python -m pip install -U matplotlib
 
     //seaborn
     pip install seaborn
-    
+
 3. On the command prompt/terminal run the command 'jupyter notebook'. This should open the browser with an instance of a running jupyter kernel.
 4. Click on the upload button and select and upload the project folder Supermarket-Sales-Analysis.
 5. Navigate into that folder and open the code.ipynb file.
