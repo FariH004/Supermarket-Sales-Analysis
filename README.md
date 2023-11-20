@@ -8,18 +8,23 @@ How to run the project ?:
 
 1. Install Jupyter notebook
 2. Install packages by opening a terminal/command prompt.
+    
     //pandas
+    
     pip install pandas
 
     //numpy
+    
     pip install numpy
 
     // matplotlib.pyplot
     
     python -m pip install -U pip 
+    
     python -m pip install -U matplotlib
 
     //seaborn
+    
     pip install seaborn
 
 3. On the command prompt/terminal run the command 'jupyter notebook'. This should open the browser with an instance of a running jupyter kernel.
