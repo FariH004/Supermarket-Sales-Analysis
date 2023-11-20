@@ -16,3 +16,4 @@ passwords/
 # Ignore system-specific files
 .DS_Store
 Thumbs.db
+Supermarket-Sales-Analysis.code-workspace
