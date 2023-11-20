@@ -9,11 +9,18 @@ The supermarket is an essential part of our daily lives. A supermarket is a self
 How to run the project ?:
 
 1. Install Jupyter notebook
-2. On the command prompt/terminal run the command 'jupyter notebook'. This should open the browser with an instance of a running jupyter kernel.
-3. Click on the upload button and select and upload the project folder Supermarket-Sales-Analysis.
-4. Install packages:
-    //
+2. Install packages by opening a terminal/command prompt.
+    //pandas
+    pip install pandas
+    //numpy
+    pip install numpy
+    // matplotlib.pyplot
     python -m pip install -U pip
     python -m pip install -U matplotlib
+    //seaborn
+    pip install seaborn
+3. On the command prompt/terminal run the command 'jupyter notebook'. This should open the browser with an instance of a running jupyter kernel.
+4. Click on the upload button and select and upload the project folder Supermarket-Sales-Analysis.
 5. Navigate into that folder and open the code.ipynb file.
 6. Click on Cell and the Run All.
+
