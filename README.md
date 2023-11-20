@@ -7,6 +7,7 @@
 How to run the project ?:
 
 1. Install Jupyter notebook
+2. Clone the project and save it as the folder Supermarket-Sales-Analysis.
 2. Install packages by opening a terminal/command prompt.
     
     //pandas
